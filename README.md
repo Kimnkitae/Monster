@@ -22,3 +22,7 @@ If you want to run this project on your machine:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/kimnkitae/Monster.git](https://github.com/kimnkitae/Monster.git)
+
+# Author
+
+Email address: mainworkkimn@gmail.com
